@@ -2,7 +2,7 @@
 
 A free, open-source, community-driven guide for planting deep-rooted, wind-resistant, long-lived trees — organized by **climate zone**, not by city.
 
-**Live site:** [your-username.github.io/sylva](https://github.com)
+**Live site:** [lassiipk.github.io/sylva](lassiipk.github.io/sylva)
 
 ---
 
